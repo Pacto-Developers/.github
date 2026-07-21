@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/pacto-logo.png" width="760" alt="Pacto" />
+<img src="./assets/pacto-logo.png" width="500" alt="Pacto" />
 
 # Pacto
 
