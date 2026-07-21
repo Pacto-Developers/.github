@@ -20,6 +20,46 @@
 
 ---
 
+## Team Pacto
+
+Pacto는 **백엔드 3명과 프론트엔드 1명**이 도메인별 책임을 나누고, API 계약과 코드 리뷰를 통해 하나의 제품을 함께 만들고 있습니다.
+
+<!--
+프로필 이미지 적용 방법:
+1. 이미지를 profile/assets/team/ 아래의 파일명으로 추가합니다.
+2. 각 팀원 카드의 img 태그를 감싼 주석만 제거합니다.
+권장 이미지: 정사각형 PNG 또는 WebP, 최소 400 × 400px
+-->
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <!-- <img src="./assets/team/seunghwan.png" width="140" alt="승환 프로필" /><br/> -->
+      <a href="https://github.com/yang5864"><strong>승환</strong></a><br/>
+      <sub><strong>Team Lead · Backend & Infrastructure</strong></sub><br/><br/>
+      프로젝트의 방향과 기술 의사결정을 이끌며, 금융 원장·에스크로 트랜잭션과 AWS 배포 인프라를 설계합니다.
+    </td>
+    <td align="center" valign="top" width="25%">
+      <!-- <img src="./assets/team/jiwon.png" width="140" alt="지원 프로필" /><br/> -->
+      <a href="https://github.com/Jiwon-0326"><strong>지원</strong></a><br/>
+      <sub><strong>Backend · Auth & Payment</strong></sub><br/><br/>
+      Spring Security·JWT 기반 인증과 역할별 프로필, PortOne V2 결제 검증 흐름을 담당합니다.
+    </td>
+    <td align="center" valign="top" width="25%">
+      <!-- <img src="./assets/team/jiyeon.png" width="140" alt="지연 프로필" /><br/> -->
+      <a href="https://github.com/n03yij"><strong>지연</strong></a><br/>
+      <sub><strong>Backend · Campaign & Mission</strong></sub><br/><br/>
+      캠페인·지원·미션의 생명주기와 자동 마감 정책, S3 파일 기능을 담당합니다.
+    </td>
+    <td align="center" valign="top" width="25%">
+      <!-- <img src="./assets/team/sangwoo.png" width="140" alt="상우 프로필" /><br/> -->
+      <a href="https://github.com/Dev-SangWoo"><strong>상우</strong></a><br/>
+      <sub><strong>Frontend · Product & UX</strong></sub><br/><br/>
+      블로거용 웹/PWA와 광고주 대시보드를 설계하고 API·결제 흐름을 사용자 경험으로 연결합니다.
+    </td>
+  </tr>
+</table>
+
 ## Pacto는 무엇인가요?
 
 Pacto는 광고 캠페인의 **예산 충전, 모집, 지원, 선정, 콘텐츠 검수, 정산**을 하나의 흐름으로 연결합니다.
